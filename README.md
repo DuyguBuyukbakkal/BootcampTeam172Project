@@ -6,8 +6,9 @@ Takım X
 
 ## Takım Elemanları
 
-- Duygu Büyükbakkal: Product Owner
+
 - Derya Salihoğlu: Scrum Master
+- Duygu Büyükbakkal: Team Member/Developer
 - İslam Özçelik: Team Member/Developer
 - Duru Önver: Team Member/Developer
 - Orhun Okyay: Team Member/Developer
