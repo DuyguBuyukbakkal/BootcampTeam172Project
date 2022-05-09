@@ -1,14 +1,14 @@
 # **Takım İsmi**
 
-Takım X
+Takım 172
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
 
-- Derya Salihoğlu: Scrum Master
-- Duygu Büyükbakkal: Team Member/Developer
+- Derya Salihoğlu: Product Owner
+- Duygu Büyükbakkal: Scrum Master
 - İslam Özçelik: Team Member/Developer
 - Duru Önver: Team Member/Developer
 - Orhun Okyay: Team Member/Developer
@@ -18,7 +18,7 @@ Takım X
 
 
 ## Ürün Açıklaması
-
+Hobi, Alışkanlık ve hedeflerin takip edebileceği, aynı hobiyi paylaşan ya da öğrenen kişilerin birbirlerini bulup gönderi ve etkileşimin sağlandığı bir platform.
 
 
 ## Ürün Özellikleri
@@ -26,7 +26,7 @@ Takım X
 
 
 ## Hedef Kitle
-
+Herhangi bir yaş aralığı olmaksızın bütün kullanıcılara hitap etmektedir.
 
 
 ## Product Backlog URL
@@ -36,6 +36,12 @@ Takım X
 ---
 
 # Sprint 1
+https://miro.com/app/board/uXjVO6CzSf0=/
+Backlogumuz Miroda mevcuttur. ClickUp üzerinden takip ediyoruz.
+
+ hedef kitlemizi tanımak için anket hazırlamaya karar verdik:https://docs.google.com/forms/d/e/1FAIpQLSdLXvTYXICNssUlTl7wIO_fQAb6BD8xJ8ukJQpqS_VeELWopA/viewform?usp=sf_link
+ 
+ geri dönüşler üzerine kriterlerimizi belirledik ve programımızı hazırlamya başladık
 
 ---
 
