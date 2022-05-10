@@ -29,7 +29,6 @@ Aktivitelerini takip edebileceğin bir takip ekranı, değişimi görmek için h
 Herhangi bir yaş aralığı,cinsiyet,sınıf farketmeksizin bütün kullanıcılara hitap etmektedir.
 
 
-## Product Backlog URL
 
 
 
@@ -43,6 +42,9 @@ Backlogumuzu ClickUp üzerinden takip ediyoruz. Davet linki size ulaştırıldı
  
  geri dönüşler üzerine kriterlerimizi belirledik ve programımızı hazırlamya başladık
 scrum görüşmelerimiz:https://beykentuni-my.sharepoint.com/:w:/g/personal/2003021047_student_beykent_edu_tr/EZCeADg79XxOiS0NQeKlEqIBoH5LdkgT7qL7j8e6hPWxBQ?e=NloeVb
+
+Sprint Review: Takımdaki rollere karar verilip projemizin kapsamı, ne yapmak istediğimiz belirledik. Karşımızdak kitleyi tanımak, kullanıcı alışkanlıklarını, motivasyon faktörlerini görebilmek için bir anket hazırladık. Bu anket sonuçlarına göre kapsamımızı ve dikkat etmemiz gerek noktaları belirledik. UI/UX tarafı için hangi şablonu kullanacağımız hakkında öneriler belirledik üzerinde fikir değerlendirmeleri yapıyoruz.
+Sprint Retrospective: UI/UX tarafını tam olarak kesinleştirip ana sayfanın hazırlanması hobi listesini belirlenmesi sürecine başlayacağız. 
 ---
 
 # Sprint 2
