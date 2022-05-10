@@ -37,12 +37,12 @@ Herhangi bir yaş aralığı olmaksızın bütün kullanıcılara hitap etmekted
 
 # Sprint 1
 https://miro.com/app/board/uXjVO6CzSf0=/
-Backlogumuz Miroda mevcuttur. ClickUp üzerinden takip ediyoruz.
+Backlogumuzu ClickUp üzerinden takip ediyoruz. Davet linki size ulaştırıldı.
 
  hedef kitlemizi tanımak için anket hazırlamaya karar verdik:https://docs.google.com/forms/d/e/1FAIpQLSdLXvTYXICNssUlTl7wIO_fQAb6BD8xJ8ukJQpqS_VeELWopA/viewform?usp=sf_link
  
  geri dönüşler üzerine kriterlerimizi belirledik ve programımızı hazırlamya başladık
-
+scrum görüşmelerimiz:https://beykentuni-my.sharepoint.com/:w:/g/personal/2003021047_student_beykent_edu_tr/EZCeADg79XxOiS0NQeKlEqIBoH5LdkgT7qL7j8e6hPWxBQ?e=NloeVb
 ---
 
 # Sprint 2
