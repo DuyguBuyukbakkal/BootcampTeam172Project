@@ -22,11 +22,11 @@ Hobi, Alışkanlık ve hedeflerin takip edebileceği, aynı hobiyi paylaşan ya 
 
 
 ## Ürün Özellikleri
-
+Aktivitelerini takip edebileceğin bir takip ekranı, değişimi görmek için herkese ya da sadece kendin ile payaşabileceğin bir paylaşım ekranı,kişiler arası mesajlaşma, geniş hobi skalası.
 
 
 ## Hedef Kitle
-Herhangi bir yaş aralığı olmaksızın bütün kullanıcılara hitap etmektedir.
+Herhangi bir yaş aralığı,cinsiyet,sınıf farketmeksizin bütün kullanıcılara hitap etmektedir.
 
 
 ## Product Backlog URL
